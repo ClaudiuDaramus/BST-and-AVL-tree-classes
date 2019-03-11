@@ -1,8 +1,0 @@
-﻿  AVL_tree.cpp
-  Tema12_AVL_Gr144v2_DaramusClaudiu.cpp
-d:\google drive\college\poo\tema12_avl_gr144v2_daramusclaudiu\tema12_avl_gr144v2_daramusclaudiu\tema12_avl_gr144v2_daramusclaudiu.cpp(22): error C2243: 'type cast': conversion from 'Arbore_AVL *' to 'Arbore *' exists, but is inaccessible
-d:\google drive\college\poo\tema12_avl_gr144v2_daramusclaudiu\tema12_avl_gr144v2_daramusclaudiu\tema12_avl_gr144v2_daramusclaudiu.cpp(23): error C3867: 'Arbore::nr_nod': non-standard syntax; use '&' to create a pointer to member
-d:\google drive\college\poo\tema12_avl_gr144v2_daramusclaudiu\tema12_avl_gr144v2_daramusclaudiu\tema12_avl_gr144v2_daramusclaudiu.cpp(26): error C2440: '=': cannot convert from 'Arbore *' to 'Arbore_AVL *'
-  d:\google drive\college\poo\tema12_avl_gr144v2_daramusclaudiu\tema12_avl_gr144v2_daramusclaudiu\tema12_avl_gr144v2_daramusclaudiu.cpp(26): note: Cast from base to derived requires dynamic_cast or static_cast
-d:\google drive\college\poo\tema12_avl_gr144v2_daramusclaudiu\tema12_avl_gr144v2_daramusclaudiu\tema12_avl_gr144v2_daramusclaudiu.cpp(27): error C3867: 'Arbore_AVL::nr_nod': non-standard syntax; use '&' to create a pointer to member
-  Generating Code...
